@@ -1,0 +1,4 @@
+#
+# Make sure to unpack lzma sources (from GitHub) into whichever directory you expanded OTA.tar
+# into (this one, with the README). Then all it takes is a MAKE
+#
