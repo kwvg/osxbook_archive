@@ -6,7 +6,7 @@ osxbook_archive
 articles
 ------
 
-converted to markdown, photos and stuff exported, most linked removed
+converted to markdown, photos and stuff exported, most links removed
 
 listings
 ------
